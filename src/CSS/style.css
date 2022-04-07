@@ -113,7 +113,8 @@ body{
 }
 
 .contato{
-    background: url(../image/fundo-contato.jpg)center center no-repeat;
+    background: url(../image/fundo-contato.jpg)
+    center center no-repeat;
     color: white;
     height: 600px;
     position: relative;
